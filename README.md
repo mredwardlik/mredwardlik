@@ -88,30 +88,18 @@ each repository here runs, has tests and a README that shows how it works.
 Cross-platform apps for Android, iOS, macOS and Windows with **.NET MAUI**. Each one has its logic in
 a separate library with tests and is built by GitHub Actions for Android and Windows.
 
-<table>
-  <tr>
-    <td align="center" valign="top" width="25%">
-      <a href="https://github.com/mredwardlik/weather-app"><img src="assets/projects/weather-app.jpg" alt="Weather App" width="180" height="380" /></a>
-      <h4>🌤 <a href="https://github.com/mredwardlik/weather-app">Weather App</a></h4>
-      <sub>Weather now and for 4 days, city search, no API keys</sub>
-    </td>
-    <td align="center" valign="top" width="25%">
-      <a href="https://github.com/mredwardlik/alarm-clock"><img src="assets/projects/alarm-clock.jpg" alt="Alarm Clock" width="180" height="380" /></a>
-      <h4>⏰ <a href="https://github.com/mredwardlik/alarm-clock">Alarm Clock</a></h4>
-      <sub>An analog dial with the time left, swipe to stop</sub>
-    </td>
-    <td align="center" valign="top" width="25%">
-      <a href="https://github.com/mredwardlik/flip-card"><img src="assets/projects/flip-card.jpg" alt="Flip Card" width="180" height="380" /></a>
-      <h4>🃏 <a href="https://github.com/mredwardlik/flip-card">Flip Card</a></h4>
-      <sub>Travel cards with a 3D flip, search and links</sub>
-    </td>
-    <td align="center" valign="top" width="25%">
-      <a href="https://github.com/mredwardlik/restaurant-app"><img src="assets/projects/restaurant-app.jpg" alt="Restaurant App" width="180" height="380" /></a>
-      <h4>🍽 <a href="https://github.com/mredwardlik/restaurant-app">Restaurant App</a></h4>
-      <sub>A menu carousel, a cart and ordering</sub>
-    </td>
-  </tr>
-</table>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/projects/mobile-apps-dark.png" />
+  <img src="assets/projects/mobile-apps-light.png" width="100%"
+       alt="Weather App, Alarm Clock, Flip Card and Restaurant App on Windows" />
+</picture>
+
+<p align="center">
+  🌤 <a href="https://github.com/mredwardlik/weather-app">weather-app</a> &nbsp;·&nbsp;
+  ⏰ <a href="https://github.com/mredwardlik/alarm-clock">alarm-clock</a> &nbsp;·&nbsp;
+  🃏 <a href="https://github.com/mredwardlik/flip-card">flip-card</a> &nbsp;·&nbsp;
+  🍽 <a href="https://github.com/mredwardlik/restaurant-app">restaurant-app</a>
+</p>
 
 ### 🛠 Libraries and tools
 
