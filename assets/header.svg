@@ -51,11 +51,11 @@
           <animate attributeName="opacity" values="0;1;1;0;0" keyTimes="0;0.04;0.29;0.33;1" dur="12s" begin="0s" repeatCount="indefinite"/>
           <animateTransform attributeName="transform" type="translate" values="0 10;0 0;0 0;0 -10;0 -10" keyTimes="0;0.04;0.29;0.33;1" dur="12s" begin="0s" repeatCount="indefinite"/>
         </text>
-        <text x="0" y="226" opacity="0">Python · TypeScript · Vue · React · PHP
+        <text x="0" y="226" opacity="0">Python · TypeScript · C# · Vue · React
           <animate attributeName="opacity" values="0;1;1;0;0" keyTimes="0;0.04;0.29;0.33;1" dur="12s" begin="4s" repeatCount="indefinite"/>
           <animateTransform attributeName="transform" type="translate" values="0 10;0 0;0 0;0 -10;0 -10" keyTimes="0;0.04;0.29;0.33;1" dur="12s" begin="4s" repeatCount="indefinite"/>
         </text>
-        <text x="0" y="226" opacity="0">Web apps, CLI tools and Telegram bots
+        <text x="0" y="226" opacity="0">Web and mobile apps, CLI tools, bots
           <animate attributeName="opacity" values="0;1;1;0;0" keyTimes="0;0.04;0.29;0.33;1" dur="12s" begin="8s" repeatCount="indefinite"/>
           <animateTransform attributeName="transform" type="translate" values="0 10;0 0;0 0;0 -10;0 -10" keyTimes="0;0.04;0.29;0.33;1" dur="12s" begin="8s" repeatCount="indefinite"/>
         </text>

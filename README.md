@@ -8,14 +8,14 @@
 
 ### 👋 About me
 
-I build web apps, command line tools and Telegram bots, mostly with
-**Python** and **TypeScript**. I like small projects that do one thing well:
+I build web and mobile apps, command line tools and Telegram bots, mostly
+with **Python**, **TypeScript** and **C#**. I like small projects that do one thing well:
 each repository here runs, has tests and a README that shows how it works.
 
 ### 🧰 Tech stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=py,ts,js,vue,react,redux,materialui,vite,nodejs,django,php,mysql,sqlite,html,css,sass,git&perline=17" alt="Python, TypeScript, JavaScript, Vue, React, Redux, MUI, Vite, Node.js, Django, PHP, MySQL, SQLite, HTML, CSS, Sass, Git" />
+  <img src="https://skillicons.dev/icons?i=py,ts,js,cs,dotnet,vue,react,redux,materialui,vite,nodejs,django,php,mysql,sqlite,html,css,sass,git&perline=10" alt="Python, TypeScript, JavaScript, C#, .NET, Vue, React, Redux, MUI, Vite, Node.js, Django, PHP, MySQL, SQLite, HTML, CSS, Sass, Git" />
 </p>
 
 ### ⭐ Featured projects
@@ -79,6 +79,36 @@ each repository here runs, has tests and a README that shows how it works.
       <img src="https://img.shields.io/badge/Vue_3-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white" alt="Vue 3" />
       <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
       <img src="https://img.shields.io/badge/Pinia-FFD859?style=flat-square&logo=vuedotjs&logoColor=black" alt="Pinia" />
+    </td>
+  </tr>
+</table>
+
+### 📱 Mobile apps
+
+Cross-platform apps for Android, iOS, macOS and Windows with **.NET MAUI**. Each one has its logic in
+a separate library with tests and is built by GitHub Actions for Android and Windows.
+
+<table>
+  <tr>
+    <td align="center" valign="top" width="25%">
+      <a href="https://github.com/mredwardlik/weather-app"><img src="assets/projects/weather-app.jpg" alt="Weather App" height="380" /></a>
+      <h4>🌤 <a href="https://github.com/mredwardlik/weather-app">Weather App</a></h4>
+      <sub>Weather now and for four days, city search and location, no API keys</sub>
+    </td>
+    <td align="center" valign="top" width="25%">
+      <a href="https://github.com/mredwardlik/alarm-clock"><img src="assets/projects/alarm-clock.jpg" alt="Alarm Clock" height="380" /></a>
+      <h4>⏰ <a href="https://github.com/mredwardlik/alarm-clock">Alarm Clock</a></h4>
+      <sub>An analog dial that shows the time left, swipe to stop and snooze</sub>
+    </td>
+    <td align="center" valign="top" width="25%">
+      <a href="https://github.com/mredwardlik/flip-card"><img src="assets/projects/flip-card.jpg" alt="Flip Card" height="380" /></a>
+      <h4>🃏 <a href="https://github.com/mredwardlik/flip-card">Flip Card</a></h4>
+      <sub>Travel cards with a 3D flip, search and links to read more</sub>
+    </td>
+    <td align="center" valign="top" width="25%">
+      <a href="https://github.com/mredwardlik/restaurant-app"><img src="assets/projects/restaurant-app.jpg" alt="Restaurant App" height="380" /></a>
+      <h4>🍽 <a href="https://github.com/mredwardlik/restaurant-app">Restaurant App</a></h4>
+      <sub>A menu carousel, a cart with delivery and ordering</sub>
     </td>
   </tr>
 </table>
