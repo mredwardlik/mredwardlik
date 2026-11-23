@@ -8,14 +8,12 @@
 
 ### 👋 About me
 
-I build web and mobile apps, command line tools and Telegram bots, mostly
-with **Python**, **TypeScript** and **C#**. I like small projects that do one thing well:
-each repository here runs, has tests and a README that shows how it works.
+I build web, mobile and desktop apps, command line tools and Telegram bots, mostly with **Python**, **TypeScript** and **C#**. I like small projects that do one thing well: every repository here runs and has a README that shows how it works, and most have tests and CI. Some of them started as university assignments in AI and computer simulation.
 
 ### 🧰 Tech stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=py,ts,js,cs,dotnet,vue,react,redux,materialui,vite,nodejs,django,php,mysql,sqlite,html,css,sass,git&perline=10" alt="Python, TypeScript, JavaScript, C#, .NET, Vue, React, Redux, MUI, Vite, Node.js, Django, PHP, MySQL, SQLite, HTML, CSS, Sass, Git" />
+  <img src="https://skillicons.dev/icons?i=py,ts,js,cs,dotnet,dart,flutter,qt,vue,react,redux,materialui,vite,vitest,nodejs,django,php,mysql,sqlite,html,css,sass,git,githubactions&perline=12" alt="Python, TypeScript, JavaScript, C#, .NET, Dart, Flutter, Qt, Vue, React, Redux, MUI, Vite, Vitest, Node.js, Django, PHP, MySQL, SQLite, HTML, CSS, Sass, Git, GitHub Actions" />
 </p>
 
 ### ⭐ Featured projects
@@ -39,6 +37,25 @@ each repository here runs, has tests and a README that shows how it works.
       <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
       <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
       <img src="https://img.shields.io/badge/Django_REST-092E20?style=flat-square&logo=django&logoColor=white" alt="Django REST Framework" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://mredwardlik.github.io/quiz-app/"><img src="assets/projects/quiz-app.jpg" alt="quiz-app" /></a>
+      <h4>❓ <a href="https://github.com/mredwardlik/quiz-app">quiz-app</a> · <a href="https://mredwardlik.github.io/quiz-app/">play</a></h4>
+      A quiz game: 10 random questions, 20 seconds for each answer and every
+      answer explained at the end.<br/><br/>
+      <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter" />
+      <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" alt="Dart" />
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://mredwardlik.github.io/logical-consequence/"><img src="assets/projects/logical-consequence.jpg" alt="Logical Consequence" /></a>
+      <h4>🪵 <a href="https://github.com/mredwardlik/logical-consequence">Logical Consequence</a> · <a href="https://mredwardlik.github.io/logical-consequence/">live demo</a></h4>
+      Add parts to a plank and see which wooden craft follows from them, with
+      every step of the reasoning.<br/><br/>
+      <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
+      <img src="https://img.shields.io/badge/SVG-FFB13B?style=flat-square&logo=svg&logoColor=black" alt="SVG" />
+      <img src="https://img.shields.io/badge/Vanilla_JS-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
     </td>
   </tr>
   <tr>
@@ -85,54 +102,65 @@ each repository here runs, has tests and a README that shows how it works.
 
 ### 📱 Mobile apps
 
-Cross-platform apps for Android, iOS, macOS and Windows with **.NET MAUI**. Each one has its logic in
-a separate library with tests and is built by GitHub Actions for Android and Windows.
+Cross-platform apps for Android, iOS, macOS and Windows with **.NET MAUI**. Each one keeps its logic in a separate library with tests, and GitHub Actions builds it for Android and Windows.
 
 <table>
   <tr>
-    <td align="center" valign="top" width="25%">
-      <a href="https://github.com/mredwardlik/weather-app"><img src="assets/projects/weather-app.jpg" alt="Weather App" height="380" /></a>
-      <h4>🌤 <a href="https://github.com/mredwardlik/weather-app">Weather App</a></h4>
-      <sub>Weather now and for four days, city search and location, no API keys</sub>
+    <td width="50%" align="center" valign="top">
+      <a href="https://github.com/mredwardlik/weather-app"><img src="assets/projects/weather-app.jpg" alt="Weather App" width="190" /></a>
+      <p><b>🌤 <a href="https://github.com/mredwardlik/weather-app">Weather App</a></b><br/>
+      <sub>Weather now and for four days, city search and location, no API keys</sub></p>
     </td>
-    <td align="center" valign="top" width="25%">
-      <a href="https://github.com/mredwardlik/alarm-clock"><img src="assets/projects/alarm-clock.jpg" alt="Alarm Clock" height="380" /></a>
-      <h4>⏰ <a href="https://github.com/mredwardlik/alarm-clock">Alarm Clock</a></h4>
-      <sub>An analog dial that shows the time left, swipe to stop and snooze</sub>
+    <td width="50%" align="center" valign="top">
+      <a href="https://github.com/mredwardlik/alarm-clock"><img src="assets/projects/alarm-clock.jpg" alt="Alarm Clock" width="190" /></a>
+      <p><b>⏰ <a href="https://github.com/mredwardlik/alarm-clock">Alarm Clock</a></b><br/>
+      <sub>An analog dial that shows the time left, swipe to stop and snooze</sub></p>
     </td>
-    <td align="center" valign="top" width="25%">
-      <a href="https://github.com/mredwardlik/flip-card"><img src="assets/projects/flip-card.jpg" alt="Flip Card" height="380" /></a>
-      <h4>🃏 <a href="https://github.com/mredwardlik/flip-card">Flip Card</a></h4>
-      <sub>Travel cards with a 3D flip, search and links to read more</sub>
+  </tr>
+  <tr>
+    <td width="50%" align="center" valign="top">
+      <a href="https://github.com/mredwardlik/flip-card"><img src="assets/projects/flip-card.jpg" alt="Flip Card" width="190" /></a>
+      <p><b>🃏 <a href="https://github.com/mredwardlik/flip-card">Flip Card</a></b><br/>
+      <sub>Travel cards with a 3D flip, search and links to read more</sub></p>
     </td>
-    <td align="center" valign="top" width="25%">
-      <a href="https://github.com/mredwardlik/restaurant-app"><img src="assets/projects/restaurant-app.jpg" alt="Restaurant App" height="380" /></a>
-      <h4>🍽 <a href="https://github.com/mredwardlik/restaurant-app">Restaurant App</a></h4>
-      <sub>A menu carousel, a cart with delivery and ordering</sub>
+    <td width="50%" align="center" valign="top">
+      <a href="https://github.com/mredwardlik/restaurant-app"><img src="assets/projects/restaurant-app.jpg" alt="Restaurant App" width="190" /></a>
+      <p><b>🍽 <a href="https://github.com/mredwardlik/restaurant-app">Restaurant App</a></b><br/>
+      <sub>A menu carousel, a cart with delivery and ordering</sub></p>
     </td>
   </tr>
 </table>
 
 ### 🛠 Libraries and tools
 
-| Project | What it is | Stack |
-| --- | --- | --- |
-| 🌊 [vue3-flow](https://github.com/mredwardlik/vue3-flow) | Page flows in Vue 3 as plain objects, without extra routes · [npm](https://www.npmjs.com/package/vue3-flow) | Vue 3 |
-| 🥾 [boot-profiler](https://github.com/mredwardlik/boot-profiler) | Run a project with named profiles of typed CLI options · [npm](https://www.npmjs.com/package/boot-profiler) | Node.js |
-| 📋 [pymenu](https://github.com/mredwardlik/pymenu) | Console menus made of pages, with arrow keys, numbers and commands | Python, rich |
-| 🕸 [pparser](https://github.com/mredwardlik/pparser) | Parse pages the way a browser sees them, from Python or the command line | Python, Playwright |
-| 🔐 [rsa](https://github.com/mredwardlik/rsa) | RSA keys, encryption of messages and files of any length, signatures | Python, PyCryptodome |
-| 🔑 [pwdgenerator](https://github.com/mredwardlik/pwdgenerator) | Passwords by Anderson's formula and by templates, the Vigenère cipher | Python |
-| 🏷 [renamer](https://github.com/mredwardlik/renamer) | Bulk-rename files to clean, URL-friendly names | Python |
-| 🔁 [loop](https://github.com/mredwardlik/loop) | A small async scheduler that runs steps in an endless loop | JavaScript |
+| Project | What it does |
+| :--- | :--- |
+| 🌊&nbsp;**[vue3-flow](https://github.com/mredwardlik/vue3-flow)**<br/><sub>Vue 3 · [npm](https://www.npmjs.com/package/vue3-flow)</sub> | Page flows in Vue 3 as plain objects, without extra routes |
+| 🥾&nbsp;**[boot-profiler](https://github.com/mredwardlik/boot-profiler)**<br/><sub>Node.js · [npm](https://www.npmjs.com/package/boot-profiler)</sub> | Runs a project with named profiles of typed CLI options |
+| 🔁&nbsp;**[loop](https://github.com/mredwardlik/loop)**<br/><sub>JavaScript</sub> | A tiny async scheduler that runs a list of steps over and over |
+| 📋&nbsp;**[pymenu](https://github.com/mredwardlik/pymenu)**<br/><sub>Python · rich</sub> | Console menus made of pages, with arrow keys, numbers and commands |
+| 🕸&nbsp;**[pparser](https://github.com/mredwardlik/pparser)**<br/><sub>Python · Playwright</sub> | Parses pages the way a browser sees them, from Python or the command line |
+| 🛒&nbsp;**[al-style-api](https://github.com/mredwardlik/al-style-api)**<br/><sub>Python</sub> | A client and a CLI for the Al-Style dealer API: catalog, prices, stock, CSV |
+| 🔐&nbsp;**[rsa](https://github.com/mredwardlik/rsa)**<br/><sub>Python · PyCryptodome</sub> | RSA keys, encryption of messages and files of any length, signatures |
+| 🔑&nbsp;**[pwdgenerator](https://github.com/mredwardlik/pwdgenerator)**<br/><sub>Python</sub> | Passwords by Anderson's formula and by templates, the Vigenère cipher |
+| 🏷&nbsp;**[renamer](https://github.com/mredwardlik/renamer)**<br/><sub>Python · Windows exe</sub> | Bulk-renames files to clean, URL-friendly names, with a preview and an undo |
+
+### 🎮 Games and study projects
+
+| Project | What it does |
+| :--- | :--- |
+| 🗼&nbsp;**[honoi](https://github.com/mredwardlik/honoi)**<br/><sub>Python · pygame‑ce</sub> | The Tower of Hanoi as a desktop game, with a solver that finishes from any position |
+| 🧩&nbsp;**[8puzzle](https://github.com/mredwardlik/8puzzle)**<br/><sub>Python</sub> | Shortest solutions of the 8-puzzle by A\* and a game in the terminal |
+| 🎲&nbsp;**[random-numbers](https://github.com/mredwardlik/random-numbers)**<br/><sub>Python</sub> | Random number generators, Monte Carlo simulation and random variables |
+| 🩺&nbsp;**[health-expert](https://github.com/mredwardlik/health-expert)**<br/><sub>Python · experta · Qt</sub> | An expert system that estimates the risk of diabetes in a child and shows its reasoning |
 
 ### 🤖 Bots and apps
 
-| Project | What it is | Stack |
-| --- | --- | --- |
-| 🛍 [shop-telebot](https://github.com/mredwardlik/shop-telebot) | A Telegram shop: products are HTML files, orders go to admins | Python, Telegram |
-| 📝 [telexam](https://github.com/mredwardlik/telexam) | A Telegram bot for timed multiple-choice tests (prototype) | Python, SQLite |
-| 🗄 [dbms-turan](https://github.com/mredwardlik/dbms-turan) | A desktop MySQL client for Windows | Delphi, MySQL |
+| Project | What it does |
+| :--- | :--- |
+| 🛍&nbsp;**[shop-telebot](https://github.com/mredwardlik/shop-telebot)**<br/><sub>Python · Telegram</sub> | A Telegram shop: products are HTML files, orders go to admins |
+| 📝&nbsp;**[telexam](https://github.com/mredwardlik/telexam)**<br/><sub>Python · Telegram · SQLite</sub> | A Telegram bot for timed multiple-choice tests, with results for Excel |
+| 🗄&nbsp;**[dbms-turan](https://github.com/mredwardlik/dbms-turan)**<br/><sub>Delphi · MySQL</sub> | A desktop MySQL client for Windows: browse and edit tables, export to Excel |
 
 <p align="center">
   <sub>Thanks for stopping by! ✨</sub>
