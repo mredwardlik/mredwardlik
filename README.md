@@ -135,6 +135,7 @@ Cross-platform apps for Android, iOS, macOS and Windows with **.NET MAUI**. Each
 
 | Project | What it does |
 | :--- | :--- |
+| 🔧&nbsp;**[project-configs](https://github.com/mredwardlik/project-configs)**<br/><sub>Node.js · template</sub> | Shared ESLint, Prettier, Stylelint, TypeScript, commit and release configs for frontend teams, moved to your npm scope with one command |
 | 🌊&nbsp;**[vue3-flow](https://github.com/mredwardlik/vue3-flow)**<br/><sub>Vue 3 · [npm](https://www.npmjs.com/package/vue3-flow)</sub> | Page flows in Vue 3 as plain objects, without extra routes |
 | 🥾&nbsp;**[boot-profiler](https://github.com/mredwardlik/boot-profiler)**<br/><sub>Node.js · [npm](https://www.npmjs.com/package/boot-profiler)</sub> | Runs a project with named profiles of typed CLI options |
 | 🔁&nbsp;**[loop](https://github.com/mredwardlik/loop)**<br/><sub>JavaScript</sub> | A tiny async scheduler that runs a list of steps over and over |
